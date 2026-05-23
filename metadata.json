@@ -1,0 +1,8 @@
+{
+  "name": "QueryHub AI",
+  "description": "An intelligent dashboard for your most common searches: Utility, Entertainment, Skills, and Trending Topics, powered by Gemini with Google Search grounding.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
